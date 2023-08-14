@@ -1,8 +1,5 @@
 body{
-    background-color: white;
-    max-width: 55rem;
-    margin-left: 10px;
-    margin-right: 10px;
+    background-color: #0001;
 
 }
 h1 { 
@@ -10,9 +7,9 @@ h1 {
 }
  
 .article-container{
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    max-width: 1000px;
 
 }
 .figure-caption {
